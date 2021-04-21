@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/ChatApp_hackathon/static/js/main.7b293f3a.chunk.js",
+    "main.js.map": "/ChatApp_hackathon/static/js/main.7b293f3a.chunk.js.map",
+    "runtime-main.js": "/ChatApp_hackathon/static/js/runtime-main.b036fbca.js",
+    "runtime-main.js.map": "/ChatApp_hackathon/static/js/runtime-main.b036fbca.js.map",
+    "static/css/2.658248ec.chunk.css": "/ChatApp_hackathon/static/css/2.658248ec.chunk.css",
+    "static/js/2.a989bfba.chunk.js": "/ChatApp_hackathon/static/js/2.a989bfba.chunk.js",
+    "static/js/2.a989bfba.chunk.js.map": "/ChatApp_hackathon/static/js/2.a989bfba.chunk.js.map",
+    "index.html": "/ChatApp_hackathon/index.html",
+    "static/css/2.658248ec.chunk.css.map": "/ChatApp_hackathon/static/css/2.658248ec.chunk.css.map",
+    "static/js/2.a989bfba.chunk.js.LICENSE.txt": "/ChatApp_hackathon/static/js/2.a989bfba.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b036fbca.js",
+    "static/css/2.658248ec.chunk.css",
+    "static/js/2.a989bfba.chunk.js",
+    "static/js/main.7b293f3a.chunk.js"
+  ]
+}
